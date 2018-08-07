@@ -1,0 +1,3 @@
+function mouse() {
+	color : 'black';
+}
