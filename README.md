@@ -20,3 +20,19 @@ step 4 : git commit( put name to your activity or change when you do with your p
 //git checkout -b <branch> (branching)
 //git checkout <branch>
 //git merge
+
+
+
+//git branch -D <branch>
+
+
+
+//git reset --soft <to_commit>
+//git reset --mixed <to_commit>
+//git reset --hard <to_commit>
+
+
+
+//git revert <commit>
+// .gitignore
+
