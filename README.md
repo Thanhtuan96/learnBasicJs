@@ -36,3 +36,20 @@ step 4 : git commit( put name to your activity or change when you do with your p
 //git revert <commit>
 // .gitignore
 
+
+//git clone
+//git pull
+
+//Pull request 
+//1. git checkout -b <new_branch>
+//2. git push origin <branch>
+//3. create a pull request on Github
+//4. review code
+	4.1. review code online (github)
+	4.2. fetch branch into local to test offline
+	4.3 approve the pull request
+//5/ merge to master
+
+
+
+
